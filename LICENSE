@@ -1,0 +1,37 @@
+DELTIET EVALUATION LICENSE
+
+Copyright (c) 2026 Ubirajara dos Santos Vasconcelos
+Feira de Santana, Bahia, Brazil
+deltiet.research@gmail.com
+
+PATENT NOTICE
+-------------
+The DeltIEt algorithm described in this repository is the subject of
+Brazilian Patent Application BR 10 2026 012158 4, filed with INPI
+(Instituto Nacional da Propriedade Industrial) on 18 May 2026.
+The PCT international filing window is open until May 2027.
+
+PERMITTED USES (no written agreement required)
+----------------------------------------------
+1. Academic and non-commercial research
+2. Internal evaluation and validation by potential licensees
+3. Reproduction of published results for scientific verification
+4. Educational use
+
+PROHIBITED USES (written commercial license required)
+-----------------------------------------------------
+1. Integration into commercial products or services
+2. Use in production battery management systems (BMS)
+3. Sublicensing or redistribution as part of a commercial offering
+4. Any use that generates direct or indirect revenue
+
+DISCLAIMER
+----------
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS
+ALGORITHM FOR ANY PARTICULAR PURPOSE. RESULTS OBTAINED ON PUBLIC
+DATASETS DO NOT CONSTITUTE A GUARANTEE OF PERFORMANCE ON PROPRIETARY
+OR COMMERCIAL DATASETS.
+
+For commercial licensing inquiries:
+deltiet.research@gmail.com
